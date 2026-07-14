@@ -1,0 +1,3 @@
+Para este trabajo utilice Chat Copilot de GitHub utilizando diversos promps que no pude guardar
+trabajando sobre el proyecto simpsons-app visto en clases.
+Se logro los objetivos de diseño, estructura y funcionalidades.

@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background: radial-gradient(circle at top left, #111218 0%, #02040f 45%, #0b0b14 100%);
+  color: #ffd84c;
+}
+
+button,
+input {
+  font: inherit;
+}

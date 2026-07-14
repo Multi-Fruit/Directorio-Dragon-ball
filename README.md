@@ -1,6 +1,6 @@
 # Directorio Dragon Ball con React + TypeScript
 
-Proyecto creado para desarrollar la guía de evaluación formativa basada en consumo de API REST, componentes, estados, búsqueda y manejo de errores.
+Proyecto creado para desarrollar la evaluación formativa basada en consumo de API REST, componentes, estados, búsqueda y manejo de errores.
 
 ## Ejecutar
 
